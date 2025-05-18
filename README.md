@@ -21,7 +21,7 @@
 
 ## 📦 Download
 
-Download the latest version from the [**Releases Page**](https://github.com/your-username/taskforge/releases).
+Download the latest version from the [**Releases Page**]([https://github.com/505Poly/TaskForge/releases/tag/release]).
 
 - **Windows**: `TaskForge-Setup.exe`
 - **macOS**: `TaskForge.dmg` *(coming soon)*
@@ -40,7 +40,7 @@ Download the latest version from the [**Releases Page**](https://github.com/your
 
 ## 📖 Getting Started
 
-1. Download the installer from the [Releases](https://github.com/your-username/taskforge/releases)
+1. Download the installer from the [Releases](https://github.com/505Poly/TaskForge/releases/tag/release)
 2. Launch TaskForge
 3. Create a new workspace or open an existing one
 4. Start writing tasks, notes, and documents
