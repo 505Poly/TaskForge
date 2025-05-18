@@ -21,7 +21,7 @@
 
 ## 📦 Download
 
-Download the latest version from the [**Releases Page**]([https://github.com/505Poly/TaskForge/releases/tag/release]).
+Download the latest version from the [**Releases Page**](https://github.com/505Poly/TaskForge/releases/tag/release).
 
 - **Windows**: `TaskForge-Setup.exe`
 - **macOS**: `TaskForge.dmg` *(coming soon)*
