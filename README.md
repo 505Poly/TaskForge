@@ -23,20 +23,11 @@
 
 Download the latest version from the [**Releases Page**](https://github.com/505Poly/TaskForge/releases/tag/release).
 
-- **Windows**: `TaskForge-Setup.exe`
+- **Windows**: `TaskForgeSetup.msi`
 - **macOS**: `TaskForge.dmg` *(coming soon)*
 - **Linux**: `TaskForge.AppImage` *(coming soon)*
 
 > No installation needed — just download, run, and start organizing your thoughts.
-
-## 🧰 Tech Stack
-
-- **Electron** – Cross-platform desktop application
-- **React** – Frontend UI
-- **Slate.js / Tiptap / ProseMirror** – Rich text editor
-- **Node.js + Express** – Local data backend (or remote with cloud sync)
-- **SQLite / Local Storage / IndexedDB** – Fast local-first data storage
-- **TypeScript** – Robust codebase
 
 ## 📖 Getting Started
 
