@@ -44,3 +44,5 @@ Download the latest version from the [**Releases Page**](https://github.com/505P
 2. Launch TaskForge
 3. Create a new workspace or open an existing one
 4. Start writing tasks, notes, and documents
+
+> -a little magic touch added by shannonbits.
